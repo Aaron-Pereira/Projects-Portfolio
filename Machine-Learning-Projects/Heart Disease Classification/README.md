@@ -1,5 +1,5 @@
-Predicting Heart Disease Using Logistic Regression
-Overview
+**Predicting Heart Disease Using Logistic Regression**
+**Overview**
 
 Developed a binary classification model to predict the presence of heart disease in patients using a dataset from Kaggle. The project involved data preprocessing, model implementation, training, evaluation, and hyperparameter tuning.
 Key Responsibilities
@@ -20,19 +20,19 @@ Key Responsibilities
         Assessed model performance using accuracy, precision, recall, F1-score, and specific evaluation metrics for binary classification.
         Visualized the loss over iterations to ensure convergence.
 
-Results
+**Results**
 
     Achieved an accuracy of 74.79%, precision of 77.52%, recall of 76.34%, and an F1-score of 76.92%.
     Improved model performance through hyperparameter tuning and extensive evaluation.
 
-Skills Demonstrated
+**Skills Demonstrated**
 
     Machine Learning: Binary classification, logistic regression, gradient descent.
     Data Analysis: Exploratory data analysis, feature engineering, data visualization.
     Programming: Proficient in Python, experience with NumPy, pandas, Matplotlib, and scikit-learn.
     Problem-Solving: Hyperparameter tuning, model evaluation, and optimization.
 
-Tools & Libraries
+**Tools & Libraries**
 
     NumPy
     pandas
