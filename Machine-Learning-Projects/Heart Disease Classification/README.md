@@ -1,9 +1,9 @@
-Project Title: Predicting Heart Disease Using Logistic Regression
+**Project Title: Predicting Heart Disease Using Logistic Regression**
 
-Overview:
+**Overview:**
 Developed a binary classification model to predict the presence of heart disease in patients using a dataset from Kaggle. The project involved data preprocessing, model implementation, training, evaluation, and hyperparameter tuning.
 
-Key Responsibilities:
+**Key Responsibilities:**
 
     Data Collection & Preprocessing: Gathered a comprehensive heart disease dataset combining five different sources. Conducted exploratory data analysis (EDA) to understand data distribution and relationships between features.
     Feature Engineering: Selected relevant features such as age, sex, chest pain type, and others, and ensured proper encoding of categorical data.
@@ -12,12 +12,12 @@ Key Responsibilities:
     Evaluation: Assessed model performance using accuracy, precision, recall, F1-score, and specific evaluation metrics for binary classification. Visualized the loss over iterations to ensure convergence.
     Tools & Libraries: Utilized libraries such as NumPy, pandas, and Matplotlib for data handling and visualization. Employed scikit-learn for data splitting and model evaluation.
 
-Results:
+**Results:**
 
     Achieved an accuracy of 74.79%, precision of 77.52%, recall of 76.34%, and an F1-score of 76.92%.
     Improved model performance through hyperparameter tuning and extensive evaluation.
 
-Skills Demonstrated:
+**Skills Demonstrated:**
 
     Machine Learning: Binary classification, logistic regression, gradient descent.
     Data Analysis: Exploratory data analysis, feature engineering, data visualization.
