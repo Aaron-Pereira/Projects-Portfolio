@@ -20,6 +20,11 @@ These projects reflect my skills in Python, SQL, Tableau, and other data analysi
 
 [Analysing Tennis Grand Slam Championships in Tableau](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/50c245d232af1f01692f4eae2285207f7f2ff4c2/Analysing%20Tennis%20Grand%20Slam%20Championships.pdf)
 
+## Analysing Australian Exports and Imports
+
+[Analysing Australia's Exports and Imports in Tableau.pdf](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/143d3cfae95acce4d3dc3762ef17be2b180c03bf/Analysing%20Australia%20Exports%20and%20Imports.pdf)
+
+
 
 
 
