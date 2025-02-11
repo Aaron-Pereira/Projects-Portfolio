@@ -6,9 +6,7 @@ I am a recent graduate with a Bachelor of Computing Science (Honours) from UTS, 
 
 This repository is a space to showcase my projects, track my learning, and connect with like-minded individuals in tech.
 
-Check out my CV.
-
-Check out my [CV](/resume.pdf)
+Check out my [CV](/Resume.pdf)
 
 
 
