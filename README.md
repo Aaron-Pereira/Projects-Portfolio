@@ -62,7 +62,17 @@ These projects highlight my skills in Python, TensorFlow, Keras, Scikit-learn, a
 **Technology:** Python.
 
 
+### Fake News Identification NLP
 
+[Fake vs Real News Identification NLP](https://github.com/Aaron-Pereira/Machine-Learning-Projects/blob/5c11e2e57bc8a8aff6ee8cda50ad541873f23419/Fake%20News%20Identification%20NLP/Fake%20vs%20Real%20News.ipynb)
+
+**Goal:** Develop a machine learning model to classify news articles as fake or real using natural language processing (NLP) techniques.
+
+**Description:** This project involves loading and preprocessing a dataset of news articles, labeling them as fake (0) or real (1). It applies data cleaning, feature selection, and exploratory data analysis (EDA) to prepare the text data for modeling. The dataset is then used to train and evaluate a machine learning classifier, utilizing train-test splits and performance metrics like confusion matrices and classification reports to assess model accuracy.
+
+**Skills:** Natural Language Processing, Data Preprocessings, Model Evaluation.
+
+**Technology:** Python.
 
 
 
