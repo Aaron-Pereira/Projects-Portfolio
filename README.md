@@ -1,90 +1,81 @@
-# Aaron Pereira - Project Portfolio
+# 🎯 Aaron Pereira - Project Portfolio  
 
-Hi, I'm Aaron! 👋
+Hi, I'm **Aaron Pereira**! 👋  
 
-I am a recent graduate with a Bachelor of Computing Science (Honours) from UTS, majoring in Artificial Intelligence. My passion lies in data analytics, machine learning, and software development, and I am eager to apply my technical skills in real-world applications.
+🎓 **Bachelor of Computing Science (Honours)** - **UTS** | **Artificial Intelligence Major**  
+💡 Passionate about **Data Analytics, Machine Learning, and Software Development**  
+🚀 Eager to apply my technical expertise to **real-world applications**  
 
-This repository is a space to showcase my projects, track my learning, and connect with like-minded individuals in tech.
+🔗 **Check out my** [📄 CV](/Resume.pdf)  
 
-Check out my [CV](/Resume.pdf).
+---
 
+## 📊 Data Analysis Projects  
 
+This section showcases **data analytics projects** where I extract insights, build **interactive visualizations**, and apply **machine learning techniques**.  
 
-## Data Analysis Projects
+📌 **Skills:** `Python` `SQL` `Tableau` `EDA` `Predictive Modeling`  
 
-This section showcases data analytics projects I have undertaken, demonstrating my ability to extract insights from data, build visualizations, and apply machine learning techniques. Each project includes a brief outline of the problem statement, methodology, key findings, and any notable technical implementations.
+### 🎾 Analysing Tennis Grand Slam Championships  
+🔗 [View Project](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/50c245d232af1f01692f4eae2285207f7f2ff4c2/Analysing%20Tennis%20Grand%20Slam%20Championships.pdf)  
 
-These projects reflect my skills in Python, SQL, Tableau, and other data analysis tools, as well as my ability to work with real-world datasets to drive meaningful conclusions. Whether it's exploratory data analysis (EDA), predictive modeling, or data storytelling, this portfolio highlights my passion for turning raw data into actionable insights.
+**🛠 Goal:** Analyze Grand Slam data to uncover patterns in player performance, nationality dominance, and match outcomes.  
+**📖 Description:** This project focuses on **player win rates, nationality-based trends, and performance patterns** using **Tableau dashboards** with **treemaps, parallel coordinate plots, and geographic maps**.  
+**🔧 Tech Stack:** `Tableau`  
 
-### Analysing Tennis Grand Slam Championships
+---
 
-[Analysing Tennis Grand Slam Championships in Tableau](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/50c245d232af1f01692f4eae2285207f7f2ff4c2/Analysing%20Tennis%20Grand%20Slam%20Championships.pdf)
+### 🌏 Analysing Australian Exports and Imports  
+🔗 [View Project](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/143d3cfae95acce4d3dc3762ef17be2b180c03bf/Analysing%20Australia%20Exports%20and%20Imports.pdf)  
 
-**Goal:** Analyze historical data from Tennis Grand Slam Championships to uncover patterns in player performance, nationality dominance, and match outcomes using data visualization techniques.
+**🛠 Goal:** Explore Australia’s trade trends (1988–2021), identifying key economic shifts and dependencies.  
+**📖 Description:** This project examines **long-term trade patterns**, showcasing **time series trends, trade dependencies, and major shifts in the economy** using **Tableau dashboards and data visualizations**.  
+**🔧 Tech Stack:** `Tableau`  
 
-**Description:** This project explores Grand Slam championship data, focusing on trends in player victories, win rates, and nationality-based performance analysis. It involves data cleaning, visualization, and statistical calculations to identify key insights, such as the most dominant players, match-winning trends, and country-level performance. The project utilizes Tableau to create interactive visualizations, including treemaps, parallel coordinate plots, and geographic maps, to present findings effectively.
+---
 
-**Skills:** Data Cleaning & Processing, Data Visualization, Statistical Analysis.
+## 🤖 Machine Learning Projects  
 
-**Technology:** Tableau.
+This section features **ML projects** where I build, train, and evaluate models for **real-world applications** like **medical predictions, NLP, and classification tasks**.  
 
+📌 **Skills:** `Python` `TensorFlow` `Keras` `Scikit-learn` `NLP` `Deep Learning`  
 
-### Analysing Australian Exports and Imports
+### ❤️ Heart Disease Classification  
+🔗 [View Project](https://github.com/Aaron-Pereira/Machine-Learning-Projects/blob/960387af930679d6efda83ba4b15815a808b020f/Heart%20Disease%20Classification/Heart_Disease_Classification.ipynb)  
 
-[Analysing Australia's Exports and Imports in Tableau.pdf](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/143d3cfae95acce4d3dc3762ef17be2b180c03bf/Analysing%20Australia%20Exports%20and%20Imports.pdf)
+**🛠 Goal:** Develop a model to **predict heart disease risk** based on patient medical data.  
+**📖 Description:** Uses **Logistic Regression**, **EDA**, and **feature selection** to train a **classification model** that predicts heart disease likelihood, with **visualizations of key health indicators**.  
+**🔧 Tech Stack:** `Python` `Scikit-learn`  
 
-**Goal:** Analyze Australia's export and import trends from 1988 to 2021 to identify key patterns, economic shifts, and trade dependencies across various industries.
+---
 
-**Description:** This project examines Australia's trade data, focusing on long-term trends in imports and exports across multiple industries. It includes data preparation, trend analysis, and visualization to highlight significant economic shifts, such as the rise of crude material exports, the decline in tobacco trade, and fluctuations in machinery and transport equipment. Using Tableau dashboards and storyboards, the project presents key insights through time series, stacked bar charts, area graphs, and treemaps, making trade trends easily interpretable.
+### 📰 Fake News Identification (NLP)  
+🔗 [View Project](https://github.com/Aaron-Pereira/Machine-Learning-Projects/blob/5c11e2e57bc8a8aff6ee8cda50ad541873f23419/Fake%20News%20Identification%20NLP/Fake%20vs%20Real%20News.ipynb)  
 
-**Skills:** Data Cleaning & Transformation, Time Series Analysis, Data Visualization.
+**🛠 Goal:** Classify news articles as **Fake** or **Real** using **Natural Language Processing (NLP)**.  
+**📖 Description:** The project applies **text preprocessing, EDA, and ML classification** using **confusion matrices and performance reports** for evaluation.  
+**🔧 Tech Stack:** `Python` `NLP`  
 
-**Technology:** Tableau.
+---
 
+## 💻 Coding Projects  
 
-## Machine Learning Projects
+This section highlights **fundamental programming projects** showcasing **data structures, OOP, and algorithmic problem-solving**.  
 
-This section showcases machine learning projects I have undertaken, demonstrating my ability to build, train, and evaluate models for a variety of real-world applications. Each project includes a brief outline of the problem statement, methodology, key findings, and notable technical implementations.
+📌 **Skills:** `C++` `OOP` `Pointers` `Data Structures`  
 
-These projects highlight my skills in Python, TensorFlow, Keras, Scikit-learn, and deep learning frameworks, as well as my ability to work with diverse datasets to develop predictive models, classification systems, and anomaly detection solutions. Whether it's natural language processing (NLP), computer vision, or traditional machine learning, this portfolio reflects my passion for leveraging AI to solve complex problems and drive meaningful insights.
+### 🔗 Simple Linked List in C++  
+🔗 [View Project](https://github.com/Aaron-Pereira/Coding-Projects/blob/61554ecbfb61064b36c0cd7a68290067e7099e74/LinkedList/Simple-LinkedList-Concept.cpp)  
 
+**🛠 Goal:** Implement a **singly linked list** with **dynamic memory allocation and pointer-based operations**.  
+**📖 Description:** Demonstrates **node creation, insertion, traversal, and memory management** in **C++**.  
+**🔧 Tech Stack:** `C++`  
 
-### Heart Disease Classification
+---
 
-[Heart Disease Classification](https://github.com/Aaron-Pereira/Machine-Learning-Projects/blob/960387af930679d6efda83ba4b15815a808b020f/Heart%20Disease%20Classification/Heart_Disease_Classification.ipynb)
+## 📫 Let's Connect!  
 
-**Goal:** Develop a machine learning model to classify patients based on heart disease risk using medical dataset features.
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aaronpereira22)  
+📧 **Email:** aaron.m.pereira@gmail.com  
 
-**Description:** This project implements Logistic Regression to predict the likelihood of heart disease using a structured dataset. It involves data preprocessing, exploratory data analysis (EDA), feature selection, and model training. The model is trained using gradient descent optimization, and its performance is evaluated using accuracy metrics. The dataset is split into training and testing sets to assess model generalization, and visualizations are used to analyze key health indicators.
-
-**Skills:** Data Preprocessing, Exploratory Data Analysis, Logistic Regression.
-
-**Technology:** Python.
-
-
-### Fake News Identification NLP
-
-[Fake vs Real News Identification NLP](https://github.com/Aaron-Pereira/Machine-Learning-Projects/blob/5c11e2e57bc8a8aff6ee8cda50ad541873f23419/Fake%20News%20Identification%20NLP/Fake%20vs%20Real%20News.ipynb)
-
-**Goal:** Develop a machine learning model to classify news articles as fake or real using natural language processing (NLP) techniques.
-
-**Description:** This project involves loading and preprocessing a dataset of news articles, labeling them as fake (0) or real (1). It applies data cleaning, feature selection, and exploratory data analysis (EDA) to prepare the text data for modeling. The dataset is then used to train and evaluate a machine learning classifier, utilizing train-test splits and performance metrics like confusion matrices and classification reports to assess model accuracy.
-
-**Skills:** Natural Language Processing, Data Preprocessings, Model Evaluation.
-
-**Technology:** Python.
-
-## Coding Projects
-
-[Simple LinkedList Concept](https://github.com/Aaron-Pereira/Coding-Projects/blob/61554ecbfb61064b36c0cd7a68290067e7099e74/LinkedList/Simple-LinkedList-Concept.cpp)
-
-**Goal:** Implement a singly linked list in C++.
-
-**Description:** This project demonstrates the basic implementation of a singly linked list in C++, covering node creation, linked list initialization, and dynamic memory management.
-
-**Skills:** Object-Oriented Programming, Dynamic Memory Allocation, Data Structures.
-
-**Technology:** C++.
-
-
-
+🚀 **Always learning, building, and exploring new technologies!**  
