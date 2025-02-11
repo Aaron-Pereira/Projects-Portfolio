@@ -74,7 +74,17 @@ These projects highlight my skills in Python, TensorFlow, Keras, Scikit-learn, a
 
 **Technology:** Python.
 
+## Coding Projects
 
+[Simple LinkedList Concept](https://github.com/Aaron-Pereira/Coding-Projects/blob/61554ecbfb61064b36c0cd7a68290067e7099e74/LinkedList/Simple-LinkedList-Concept.cpp)
+
+**Goal:** Implement a singly linked list in C++.
+
+**Description:** This project demonstrates the basic implementation of a singly linked list in C++, covering node creation, linked list initialization, and dynamic memory management.
+
+**Skills:** Object-Oriented Programming, Dynamic Memory Allocation, Data Structures.
+
+**Technology:** C++.
 
 
 
