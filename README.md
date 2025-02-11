@@ -18,7 +18,11 @@ These projects reflect my skills in Python, SQL, Tableau, and other data analysi
 
 ### Analysing Tennis Grand Slam Championships
 
-[Analysing Tennis Grand Slam Championships in Tableau](../Data-Analysis-Projects/Analysing Tennis Grand Slam Championships.pdf)
+[Analysing Tennis Grand Slam Championships in Tableau](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/50c245d232af1f01692f4eae2285207f7f2ff4c2/Analysing%20Tennis%20Grand%20Slam%20Championships.pdf)
+
+
+
+
 
 
 
