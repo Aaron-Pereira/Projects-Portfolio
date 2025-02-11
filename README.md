@@ -8,3 +8,7 @@ This repository is a space to showcase my projects, track my learning, and conne
 
 Check out my CV.
 
+Check out my [CV](/resume.pdf)
+
+
+
