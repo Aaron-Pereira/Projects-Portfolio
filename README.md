@@ -42,6 +42,18 @@ Skills: Data Cleaning & Transformation, Time Series Analysis, Data Visualization
 Technology: Tableau
 
 
+## Machine Learning Projects
+
+This section showcases machine learning projects I have undertaken, demonstrating my ability to build, train, and evaluate models for a variety of real-world applications. Each project includes a brief outline of the problem statement, methodology, key findings, and notable technical implementations.
+
+These projects highlight my skills in Python, TensorFlow, Keras, Scikit-learn, and deep learning frameworks, as well as my ability to work with diverse datasets to develop predictive models, classification systems, and anomaly detection solutions. Whether it's natural language processing (NLP), computer vision, or traditional machine learning, this portfolio reflects my passion for leveraging AI to solve complex problems and drive meaningful insights.
+
+
+### Heart Disease Classification
+
+
+
+
 
 
 
