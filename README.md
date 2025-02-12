@@ -6,7 +6,7 @@ Hi, I'm **Aaron Pereira**! 👋
  Passionate about **Data Analytics, Machine Learning, and Software Development**  
  Eager to apply my technical expertise to **real-world applications**  
 
-🔗 **Check out my** [📄 Resume](/Resume.pdf).  
+🔗 **Check out my** [📄 Resume](/Resume.pdf)  
 
 ---
 
