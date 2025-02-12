@@ -64,6 +64,12 @@ This section highlights **fundamental programming projects** showcasing **data s
 
 📌 **Skills:** `C++` `OOP` `Pointers` `Data Structures`  
 
+### 🔗 Games Kiosk in Java  
+🔗 [View Project](https://github.com/Aaron-Pereira/Coding-Projects/blob/61554ecbfb61064b36c0cd7a68290067e7099e74/LinkedList/Simple-LinkedList-Concept.cpp)  
+
+**Goal:** A **Java**-based game rental system that allows customers to **rent games, manage their accounts, and perform administrative tasks**.   
+**Tech Stack:** `Java`  
+
 ### 🔗 Simple Linked List in C++  
 🔗 [View Project](https://github.com/Aaron-Pereira/Coding-Projects/blob/61554ecbfb61064b36c0cd7a68290067e7099e74/LinkedList/Simple-LinkedList-Concept.cpp)  
 
