@@ -16,7 +16,7 @@ This section showcases **data analytics projects** where I extract insights, bui
 
 📌 **Skills:** `Python` `SQL` `Tableau` `EDA` `Predictive Modeling`  
 
-### 🎾 Analysing Tennis Grand Slam Championships  
+### Analysing Tennis Grand Slam Championships  
 🔗 [View Project](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/50c245d232af1f01692f4eae2285207f7f2ff4c2/Analysing%20Tennis%20Grand%20Slam%20Championships.pdf)  
 
 **Goal:** Analyze Grand Slam data to uncover patterns in player performance, nationality dominance, and match outcomes.  
@@ -25,7 +25,7 @@ This section showcases **data analytics projects** where I extract insights, bui
 
 ---
 
-### 🌏 Analysing Australian Exports and Imports  
+### Analysing Australian Exports and Imports  
 🔗 [View Project](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/143d3cfae95acce4d3dc3762ef17be2b180c03bf/Analysing%20Australia%20Exports%20and%20Imports.pdf)  
 
 **Goal:** Explore Australia’s trade trends (1988–2021), identifying key economic shifts and dependencies.  
@@ -40,7 +40,7 @@ This section features **ML projects** where I build, train, and evaluate models 
 
 📌 **Skills:** `Python` `TensorFlow` `Keras` `Scikit-learn` `NLP` `Deep Learning`  
 
-### ❤️ Heart Disease Classification  
+### Heart Disease Classification  
 🔗 [View Project](https://github.com/Aaron-Pereira/Machine-Learning-Projects/blob/960387af930679d6efda83ba4b15815a808b020f/Heart%20Disease%20Classification/Heart_Disease_Classification.ipynb)  
 
 **Goal:** Develop a model to **predict heart disease risk** based on patient medical data.  
@@ -49,7 +49,7 @@ This section features **ML projects** where I build, train, and evaluate models 
 
 ---
 
-### 📰 Fake News Identification (NLP)  
+### Fake News Identification (NLP)  
 🔗 [View Project](https://github.com/Aaron-Pereira/Machine-Learning-Projects/blob/5c11e2e57bc8a8aff6ee8cda50ad541873f23419/Fake%20News%20Identification%20NLP/Fake%20vs%20Real%20News.ipynb)  
 
 **Goal:** Classify news articles as **Fake** or **Real** using **Natural Language Processing (NLP)**.  
@@ -64,13 +64,13 @@ This section highlights **fundamental programming projects** showcasing **data s
 
 📌 **Skills:** `C++` `OOP` `Pointers` `Data Structures`  
 
-### 🎮 Games Kiosk in Java  
+### Games Kiosk in Java  
 🔗 [View Project](https://github.com/Aaron-Pereira/Coding-Projects/tree/3e9de4f1110a0d26927d18819ebffea8097b7c91/Games%20Kiosk)  
 
 **Goal:** A **Java**-based game rental system that allows customers to **rent games, manage their accounts, and perform administrative tasks**.   
 **Tech Stack:** `Java`  
 
-### 🔗 Simple Linked List in C++  
+### Simple Linked List in C++  
 🔗 [View Project](https://github.com/Aaron-Pereira/Coding-Projects/blob/61554ecbfb61064b36c0cd7a68290067e7099e74/LinkedList/Simple-LinkedList-Concept.cpp)  
 
 **Goal:** Implement a **singly linked list** with **dynamic memory allocation and pointer-based operations**.  
