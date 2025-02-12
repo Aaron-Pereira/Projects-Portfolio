@@ -43,8 +43,8 @@ This section features **ML projects** where I build, train, and evaluate models 
 ### ❤️ Heart Disease Classification  
 🔗 [View Project](https://github.com/Aaron-Pereira/Machine-Learning-Projects/blob/960387af930679d6efda83ba4b15815a808b020f/Heart%20Disease%20Classification/Heart_Disease_Classification.ipynb)  
 
-** Goal:** Develop a model to **predict heart disease risk** based on patient medical data.  
-** Description:** Uses **Logistic Regression**, **EDA**, and **feature selection** to train a **classification model** that predicts heart disease likelihood, with **visualizations of key health indicators**.  
+**Goal:** Develop a model to **predict heart disease risk** based on patient medical data.  
+**Description:** Uses **Logistic Regression**, **EDA**, and **feature selection** to train a **classification model** that predicts heart disease likelihood, with **visualizations of key health indicators**.  
 ** Tech Stack:** `Python` `Scikit-learn`  
 
 ---
@@ -52,9 +52,9 @@ This section features **ML projects** where I build, train, and evaluate models 
 ### 📰 Fake News Identification (NLP)  
 🔗 [View Project](https://github.com/Aaron-Pereira/Machine-Learning-Projects/blob/5c11e2e57bc8a8aff6ee8cda50ad541873f23419/Fake%20News%20Identification%20NLP/Fake%20vs%20Real%20News.ipynb)  
 
-** Goal:** Classify news articles as **Fake** or **Real** using **Natural Language Processing (NLP)**.  
-** Description:** The project applies **text preprocessing, EDA, and ML classification** using **confusion matrices and performance reports** for evaluation.  
-** Tech Stack:** `Python` `NLP`  
+**Goal:** Classify news articles as **Fake** or **Real** using **Natural Language Processing (NLP)**.  
+**Description:** The project applies **text preprocessing, EDA, and ML classification** using **confusion matrices and performance reports** for evaluation.  
+**Tech Stack:** `Python` `NLP`  
 
 ---
 
@@ -67,9 +67,9 @@ This section highlights **fundamental programming projects** showcasing **data s
 ### 🔗 Simple Linked List in C++  
 🔗 [View Project](https://github.com/Aaron-Pereira/Coding-Projects/blob/61554ecbfb61064b36c0cd7a68290067e7099e74/LinkedList/Simple-LinkedList-Concept.cpp)  
 
-** Goal:** Implement a **singly linked list** with **dynamic memory allocation and pointer-based operations**.  
-** Description:** Demonstrates **node creation, insertion, traversal, and memory management** in **C++**.  
-** Tech Stack:** `C++`  
+**Goal:** Implement a **singly linked list** with **dynamic memory allocation and pointer-based operations**.  
+**Description:** Demonstrates **node creation, insertion, traversal, and memory management** in **C++**.  
+**Tech Stack:** `C++`  
 
 ---
 
