@@ -19,18 +19,18 @@ This section showcases **data analytics projects** where I extract insights, bui
 ### 🎾 Analysing Tennis Grand Slam Championships  
 🔗 [View Project](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/50c245d232af1f01692f4eae2285207f7f2ff4c2/Analysing%20Tennis%20Grand%20Slam%20Championships.pdf)  
 
-** Goal:** Analyze Grand Slam data to uncover patterns in player performance, nationality dominance, and match outcomes.  
-** Description:** This project focuses on **player win rates, nationality-based trends, and performance patterns** using **Tableau dashboards** with **treemaps, parallel coordinate plots, and geographic maps**.  
-** Tech Stack:** `Tableau`  
+**Goal:** Analyze Grand Slam data to uncover patterns in player performance, nationality dominance, and match outcomes.  
+**Description:** This project focuses on **player win rates, nationality-based trends, and performance patterns** using **Tableau dashboards** with **treemaps, parallel coordinate plots, and geographic maps**.  
+**Tech Stack:** `Tableau`  
 
 ---
 
 ### 🌏 Analysing Australian Exports and Imports  
 🔗 [View Project](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/143d3cfae95acce4d3dc3762ef17be2b180c03bf/Analysing%20Australia%20Exports%20and%20Imports.pdf)  
 
-** Goal:** Explore Australia’s trade trends (1988–2021), identifying key economic shifts and dependencies.  
-** Description:** This project examines **long-term trade patterns**, showcasing **time series trends, trade dependencies, and major shifts in the economy** using **Tableau dashboards and data visualizations**.  
-** Tech Stack:** `Tableau`  
+**Goal:** Explore Australia’s trade trends (1988–2021), identifying key economic shifts and dependencies.  
+**Description:** This project examines **long-term trade patterns**, showcasing **time series trends, trade dependencies, and major shifts in the economy** using **Tableau dashboards and data visualizations**.  
+**Tech Stack:** `Tableau`  
 
 ---
 
@@ -45,7 +45,7 @@ This section features **ML projects** where I build, train, and evaluate models 
 
 **Goal:** Develop a model to **predict heart disease risk** based on patient medical data.  
 **Description:** Uses **Logistic Regression**, **EDA**, and **feature selection** to train a **classification model** that predicts heart disease likelihood, with **visualizations of key health indicators**.  
-** Tech Stack:** `Python` `Scikit-learn`  
+**Tech Stack:** `Python` `Scikit-learn`  
 
 ---
 
