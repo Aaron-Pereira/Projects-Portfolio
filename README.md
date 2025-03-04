@@ -86,11 +86,10 @@ This section showcases **Web Application projects** where I build **applications
 📌 **Skills:** `React` `Nodejs` `Django` `Flask` `HTML`  
 
 ### Simple REST Project using Flask
-🔗 [View Project](https://github.com/Aaron-Pereira/Data-Analysis-Projects/blob/50c245d232af1f01692f4eae2285207f7f2ff4c2/Analysing%20Tennis%20Grand%20Slam%20Championships.pdf)  
+🔗 [View Project](https://github.com/Aaron-Pereira/Web-Applications/tree/c7de41aacc5deb25ae83f7cd14927dc9097d5a0b/REST%20Flask%20Demo)  
 
-**Goal:** Analyze Grand Slam data to uncover patterns in player performance, nationality dominance, and match outcomes.  
-**Description:** This project focuses on **player win rates, nationality-based trends, and performance patterns** using **Tableau dashboards** with **treemaps, parallel coordinate plots, and geographic maps**.  
-**Tech Stack:** `Tableau`  
+**Goal:** Build a simple Flask REST API that allows users to add, rank, update, and delete movies.  
+**Tech Stack:** `Flask` `REST`  
 
 ---
 
