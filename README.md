@@ -41,7 +41,7 @@ This section features **ML projects** where I build, train, and evaluate models 
 📌 **Skills:** `Python` `TensorFlow` `Keras` `Scikit-learn` `NLP` `Deep Learning`  
 
 ### Job Seeking Bot
-🔗 [View Project](https://github.com/Aaron-Pereira/Machine-Learning-Projects/blob/960387af930679d6efda83ba4b15815a808b020f/Heart%20Disease%20Classification/Heart_Disease_Classification.ipynb)  
+🔗 [View Project](https://github.com/Aaron-Pereira/job-apply-bot)  
 
 **Goal:** Develop a web scraping program to **find and rank jobs** based on personal relevance.  
 **Description:** Uses **ChromeDriver and BeautifulSoup**, to web scrape jobs on Seek. Uses **automated Gmail API** to log in. Then, it trains a **classification model** to create rankings based on the provided resume and skills.  
