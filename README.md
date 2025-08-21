@@ -43,9 +43,14 @@ This section features **ML projects** where I build, train, and evaluate models 
 ### Job Seeking Bot
 🔗 [View Project](https://github.com/Aaron-Pereira/job-apply-bot)  
 
-**Goal:** Develop a web scraping program to **find and rank jobs** based on personal relevance.  
-**Description:** Uses **ChromeDriver and BeautifulSoup**, to web scrape jobs on Seek. Uses **automated Gmail API** to log in. Then, it trains a **classification model** to create rankings based on the provided resume and skills.  
-**Tech Stack:** `Python` `Scikit-learn` `Selenium` `pandas` `tf-idf` 
+**Goal:** Build an intelligent job ranking system that automatically scrapes job postings, compares them to your resume, and predicts how relevant each job is on a scale of 1–10.   
+**Description:** This project automates the job search workflow by:
+- Logging into job sites with Gmail verification codes.  
+- Scraping job postings (titles, companies, descriptions).  
+- Comparing postings against your resume using TF-IDF similarity.  
+- Training a machine learning model (Random Forest) with manually ranked jobs.  
+- Filtering irrelevant jobs (similarity < 0.5) and predicting rankings for the rest.
+**Tech Stack:** `Python` `Scikit-learn` `Selenium` `BeautifulSoup` `Gmail API`
 
 ---
 
