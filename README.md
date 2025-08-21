@@ -2,7 +2,7 @@
 
 Hi, I'm **Aaron Pereira**! 👋  
 
- **Bachelor of Computing Science (Honours)** - **UTS** | **Artificial Intelligence Major**  
+ **Bachelor of Computing Science (First Class Honours)** - **UTS** | **Artificial Intelligence and Data Analytics Major**  
  Passionate about **Data Analytics, Machine Learning, and Software Development**  
  Eager to apply my technical expertise to **real-world applications**  
 
