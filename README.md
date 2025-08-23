@@ -50,6 +50,7 @@ This section features **ML projects** where I build, train, and evaluate models 
 - Comparing postings against your resume using TF-IDF similarity.  
 - Training a machine learning model (Random Forest) with manually ranked jobs.  
 - Filtering irrelevant jobs (similarity < 0.5) and predicting rankings for the rest.
+
 **Tech Stack:** `Python` `Scikit-learn` `Selenium` `BeautifulSoup` `Gmail API`
 
 ---
